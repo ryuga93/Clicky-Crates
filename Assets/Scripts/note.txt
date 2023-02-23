@@ -1,0 +1,11 @@
+DONE:
+1) Adjust spawn speed
+2) Reduces live for skull
+3) pause during swipe bug
+
+TO DO:
+3) Test WebGL build
+4) Complete itch.io page
+5) Take Screenshoots & cover photo
+
+3) Fix swipe sensitivity/lagging (have to check)
